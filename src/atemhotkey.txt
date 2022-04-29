@@ -1,0 +1,38 @@
+---- Video sources: ----
+0: Black        1000: Color Bars      3010: MP 1          4010: Key 1 Mask      7001: CLF 1      10010: ME 1 Prg
+1: Input 1      2001: Color 1         3011: MP 1 Key      4020: Key 2 Mask      7002: CLF 2      10011: ME 1 Pvw
+2: Input 2      2002: Color 2         3020: MP 2          4030: Key 3 Mask      8001: Aux 1      10020: ME 2 Prg
+....                                  3021: MP 2 Key      4040: Key 4 Mask      8002: Aux 2      10021: ME 2 Pvw
+20: Input 20                                              5010: DSK 1 Mask      ....
+6000: Super Source                                        5020: DSK 2 Mask      8006: Aux 6
+
+
+---- ME: ----
+0: ME1
+1: ME2
+
+
+---- Hotkeys: ----
+\t \n \r ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ [ \ ] ^ _ ` a b c d e f g h i j k
+l m n o p q r s t u v w x y z { | } ~ accept add alt altleft altright apps backspace browserback browserfavorites
+browserforward browserhome browserrefresh browsersearch browserstop capslock clear convert ctrl ctrlleft ctrlright
+decimal del delete divide down end enter esc escape execute f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 f13 f14 f15 f16 f17
+f18 f19 f20 f21 f22 f23 f24 final fn hanguel hangul hanja help home insert junja kana kanji launchapp1 launchapp2
+launchmail launchmediaselect left modechange multiply nexttrack nonconvert num0 num1 num2 num3 num4 num5 num6 num7 num8
+num9 numlock pagedown pageup pause pgdn pgup playpause prevtrack print printscreen prntscrn prtsc prtscr return right
+scrolllock select separator shift shiftleft shiftright sleep space stop subtract tab up volumedown volumemute volumeup
+win winleft winright yen command option optionleft optionright
+
+
+---- Hotkey examples: ----
+F3:
+hotkey1 = f3
+hotkey2 =
+
+Ctrl+A:
+hotkey1 = ctrl
+hotkey2 = a
+
+Spacebar:
+hotkey1 = space
+hotkey2 =
